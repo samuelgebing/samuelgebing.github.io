@@ -1,5 +1,9 @@
 # Introduction
-Here are the codes and reflections that I did on the course "HTML Básico" from Fundação Bradesco.
+This is not a common README. 
+Here are my annotations that I did 
+on the course "HTML Básico" from Fundação Bradesco.
+The codes will be in another files.
+
 ## Seasons
 1 - Introduction
 
@@ -18,3 +22,18 @@ Here are the codes and reflections that I did on the course "HTML Básico" from 
 8 - Combining tags
 
 9 - Using mapped images
+
+## Annotations from Introduction 
+
+### Home page
+Home page --> normally named as index.htm or 
+default.htm, or with the extension .html 
+
+### Protocols
+HTTP (Hyper Text Transfer Protocol) -->
+
+FTP --> 
+
+TCP -->
+
+IP -->
