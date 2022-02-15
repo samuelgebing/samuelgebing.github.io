@@ -1,39 +1,20 @@
 # Introduction
-This is not a common README. 
-Here are my annotations that I did 
-on the course "HTML Básico" from Fundação Bradesco.
-The codes will be in another files.
+Into this repository, I will put all codes, like a
+personal blog with the evolution of my programming 
+habilities. The idea is growing up according 
+my studies. 
 
-## Seasons
-1 - Introduction
+## Courses
 
-2 - HTML and the web
+### Fundação Bradesco 
 
-3 - Creating a HTML document
+1 - HTML Básico (02-06-2022 to...)
 
-4 - Formatting a HTML document
+## Books
 
-5 - Creating Lists
+1 - Head First - Programming (02-13-2022 to ...)
 
-6 - Inserting images
+## Annotations
 
-7 - Creating links
-
-8 - Combining tags
-
-9 - Using mapped images
-
-## Annotations from Introduction 
-
-### Home page
-Home page --> normally named as index.htm or 
-default.htm, or with the extension .html 
-
-### Protocols
-HTTP (Hyper Text Transfer Protocol) -->
-
-FTP --> 
-
-TCP -->
-
-IP -->
+Home page --> normally named as index.html or
+default.html
